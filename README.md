@@ -1,5 +1,10 @@
-## Hi there 👋
-
+### Education
+### Work Experience
+### Projects
+  - Verb Valency
+  - Arguments Statistics
+  - Nominal Phrase Constituents
+  - Copula, h-, Būdan
 <!--
 **RahaaMusavi/RahaaMusavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
